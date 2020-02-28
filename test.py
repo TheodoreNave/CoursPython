@@ -16,8 +16,5 @@ def my_WriteReadFunction():
     f.write(str(sys.argv[2]))
 
 
-def Read_function():
-
 if __name__ == "__main__":
     my_WriteReadFunction()
-    Read_function()
