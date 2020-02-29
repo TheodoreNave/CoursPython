@@ -1,0 +1,18 @@
+#Fuckin' OS Useless Shit
+
+.DS_Store
+.DS_Store?
+._*
+*.out
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#C output files
+out\
+*.exe
+*.stackdump
+
+#test files
+test.*
